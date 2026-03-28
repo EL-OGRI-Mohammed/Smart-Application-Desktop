@@ -43,8 +43,11 @@ Technologies utilisées:
 
 Installation:
 git clone https://github.com/EL-OGRI-Mohammed/Smart-Application-Desktop.git
+
 cd Smart-Application-Desktop
+
 pip install networkx matplotlib
+
 python main.py
 
 
